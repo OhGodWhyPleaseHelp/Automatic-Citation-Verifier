@@ -2,7 +2,7 @@
 
 This is the repository for the Automatic Citation Verification System.
 
-The repository here contains both the code used and the evaluation set.
+The repository here contains both the code used and the [evaluation set](https://github.com/OhGodWhyPleaseHelp/Automatic-Citation-Verifier/tree/main/Evaluation%20set).
 
 The code here was not initially intended for public release, so the code presented as is, which may or may not have sufficient documentation to understand each function. 
 
